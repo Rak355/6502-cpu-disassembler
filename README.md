@@ -20,6 +20,6 @@ $ make rr
 In these case you need to manually terminate the program.
 2. The "log.txt" file could grow very large on longer execution.
 
-Note: This project was cloned from my github repository.
+Note: This project was cloned from my github repository. https://github.com/Rak355/6502_emulator
 
 **Please report any bugs by raising an issue on the repository.**
