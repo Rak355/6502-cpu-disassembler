@@ -1,4 +1,4 @@
-#6502_emulator
+# 6502_emulator
 A simple 6502 written in C programming language.
 
 # Project Status:
