@@ -2,7 +2,7 @@
 A simple 6502 written in C programming language.
 
 # Project Status:
-1. This emulator war originally created for a nes emulator.
+1. This emulator was originally created for a nes emulator.
 2. It is still in development phase.
 3. The emulator could log disassembly of the binary code.
 See the "log.txt" file after running the program.
